@@ -1,0 +1,6 @@
+{
+  "name": "vite-build-watch-symlink-retargeted",
+  "private": true,
+  "type": "module",
+  "devDependencies": { "vite": "8.3.8" }
+}

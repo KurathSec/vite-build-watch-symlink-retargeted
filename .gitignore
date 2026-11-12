@@ -1,0 +1,6 @@
+node_modules/
+dist/
+fresh/
+watch.log
+src/link.js
+src/.link.tmp
